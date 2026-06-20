@@ -1,0 +1,9 @@
+{
+  "name": "ink-ai-chat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A free AI chat website powered by Google Gemini's free tier, deployable on Vercel.",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
